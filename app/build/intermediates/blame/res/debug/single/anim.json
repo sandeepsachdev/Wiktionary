@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/anim/slide_in.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/anim/slide_in.xml"
+    }
+]

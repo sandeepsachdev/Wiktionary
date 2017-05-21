@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/xml/widget_word.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/xml/widget_word.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/xml/searchable.xml"
+    }
+]

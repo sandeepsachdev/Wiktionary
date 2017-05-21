@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/logo_overlay.9.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/logo_overlay.9.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/lookup_bg.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/lookup_bg.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/star_logo.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/star_logo.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/ic_menu_shuffle.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/ic_menu_shuffle.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/app_icon.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/progress_spin.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/progress_spin.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/widget_bg.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/widget_bg.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/widget_bg_pressed.9.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/widget_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/widget_bg_normal.9.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/widget_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/drawable/widget_bg_selected.9.png",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/drawable/widget_bg_selected.9.png"
+    }
+]

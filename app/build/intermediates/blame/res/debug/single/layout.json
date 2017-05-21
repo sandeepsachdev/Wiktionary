@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/layout/widget_word.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/layout/widget_word.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/layout/lookup.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/layout/lookup.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/layout/widget_message.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/layout/widget_message.xml"
+    },
+    {
+        "merged": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/sandeepsachdev/AndroidStudioProjects/WidgetExamples-master/Wiktionary/app/src/main/res/layout/about.xml"
+    }
+]
